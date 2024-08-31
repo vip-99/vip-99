@@ -1,4 +1,7 @@
-![logo](https://github.com/vip-99/vip-99/blob/main/VIPIN%20KARUNAKARAN.png)
+<p align="center">
+  <img src="https://github.com/vip-99/vip-99/blob/main/VIPIN%20KARUNAKARAN.png" alt="logo">
+</p>
+
 <h1 align="center">Hi 👋, I'm Vipin Karunakaran</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
